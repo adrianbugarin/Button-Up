@@ -1,0 +1,33 @@
+.container{
+ 
+}
+
+.search-button{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   border-radius: 30px;
+   border-color:lightblue;
+   
+   background-color: whitesmoke;
+   color: lightblue;
+}
+
+.plus-button{
+    color: whitesmoke;
+    background-color: lightgray;
+    font-style: oblique;
+    font-weight: bold;
+    border-radius: 13px;
+    width: 25px;
+    height: 25px;
+
+}
+
+.create-button{
+    font-weight:500
+    font-size: small;
+    color: white;
+    background-color: cornflowerblue;
+    box-shadow: 3px 3px black;
+
+}
+
